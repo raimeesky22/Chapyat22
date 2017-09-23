@@ -3,7 +3,7 @@
 ?>
 <link rel="stylesheet" type="text/css" href="assets/css/assets.css">
 <div class="semi">
-Unit of Competency/Module Title
+Unit of Competency/Module Titles
 </div>
 <table cellspacing= 0px cellpadding=5px>
 	
